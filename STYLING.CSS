@@ -1,0 +1,48 @@
+body{
+	background-image:url(DEE.jpg) ;
+	background-size: cover;
+	margin-left: 40px;
+	margin-right: 10px;
+}   
+h1{
+
+  border: 2px solid;
+  border-color: yellow;
+  border-width: 7px;
+  border-radius: 25spxs;
+  background-color: gray;
+  text-align:center ;
+  color: blue;
+  font-style: algeria;
+  padding-top: 10px;
+}
+ul li{
+font-family: algerian;
+color: yellow;
+font-size: 30px;
+}
+h1{
+	font-family: algerian;
+	color: red;
+
+}
+p{
+	font-family: algerian;
+	color: blue;
+	font-size: 40px;
+	color:rgb(238,130,238);
+
+
+}
+h2{
+	background:rgb(180, 1800, 180);
+	color:hsl(0, 20%, 50%);
+
+}
+a{
+	border-color: yellow;
+  border: ;
+  border-width: ;
+  border-radius: ;
+
+}
